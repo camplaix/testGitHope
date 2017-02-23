@@ -1,11 +1,5 @@
 initial value
 github remote insertion!
-<<<<<<< HEAD
 
-catrapum
-
-=======
-fuuuuuuckboi
->>>>>>> 53b8da59e9a869004f17e144c06f584e9f50fadb
 
 
