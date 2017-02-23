@@ -1,6 +1,11 @@
 initial value
 github remote insertion!
+<<<<<<< Updated upstream
 tollen
 buuumbz
 papa
 
+=======
+
+papa
+>>>>>>> Stashed changes
