@@ -1,8 +1,3 @@
 sheet
-<<<<<<< HEAD
-calvin local
-=======
-caboom
->>>>>>> c6290dde56ea3ef7bbecc502f7df40e0a13badfc
 
 
