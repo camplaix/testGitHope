@@ -1,6 +1,4 @@
 sheet
-edit local line
-edit remote line
-conflict solved
+Lets change this dis wish on experimental branch
 
 
