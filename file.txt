@@ -1,3 +1,6 @@
 sheet
 edit local line
+edit remote line
+conflict solved
+
 
