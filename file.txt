@@ -1,6 +1,4 @@
-
 remote change one
 second remote change 
-
 local change one
-
+local change two
